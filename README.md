@@ -6,6 +6,6 @@ Course repository for the course 'Software for Embedded Systems (CS G523)' at BI
 
 TA's for the course : 
 
- [Vishal Singh](www.github.com/vishalbhsc)
- [Shivangi Gupta](www.github.com/shivangixgupta) 
- [Aditya Bidwai](www.github.com/adbidwai)
+ * [Vishal Singh](www.github.com/vishalbhsc)
+ * [Shivangi Gupta](www.github.com/shivangixgupta) 
+ * [Aditya Bidwai](www.github.com/adbidwai)
