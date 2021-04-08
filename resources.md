@@ -9,4 +9,4 @@
 
 * [RSL's ROS tutorials](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
 * [Justin Huang's ROS tutorials](https://www.youtube.com/playlist?list=PLJNGprAk4DF5PY0kB866fEZfz6zMLJTF8)
-* * [ERC BPGC handbook](https://erc-bpgc.github.io/handbook/automation/ROS/setting_up/)
+* [ERC BPGC handbook](https://erc-bpgc.github.io/handbook/automation/ROS/setting_up/)
