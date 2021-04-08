@@ -1,4 +1,5 @@
 #! /usr/bin/env python 
+#The above line is not a comment. It is something known as a shebang which is required when you want the language/program to run files as executables. Whenever you run the ROS nodes using 'rosrun #package_name #node_name' the nodes are run as executables and not ordinary code files
 
 import rospy  #Importing the Python API client library
 from std_msgs.msg import String #Importing the String message definition / class
