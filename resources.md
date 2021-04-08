@@ -5,7 +5,7 @@
 * [DroneBot Workshop's Arduino tutorials](https://www.youtube.com/channel/UCzml9bXoEM0itbcE96CB03w/playlists)
 * [ERC BPGC handbook](https://erc-bpgc.github.io/handbook/electronics/Development_Boards/Arduino/)
 
-# #Resources to learn about ROS : 
+## Resources to learn about ROS : 
 
 * [RSL's ROS tutorials](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
 * [Justin Huang's ROS tutorials](https://www.youtube.com/playlist?list=PLJNGprAk4DF5PY0kB866fEZfz6zMLJTF8)
