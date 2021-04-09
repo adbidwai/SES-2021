@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+ses_ws/build*
+ses_ws/devel*
+
