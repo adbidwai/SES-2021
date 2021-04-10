@@ -1,0 +1,6 @@
+<launch>
+
+	<node pkg="my_pkg" name="publisher_node" type="pub_node.py"/>
+	<node pkg="my_pkg" name="subscriber_node" type="sub_node.py"/>
+
+</launch>
