@@ -6,6 +6,6 @@ List of all the resources is present in the [resources.md](https://github.com/ad
 
 TA's for the course : 
 
- * [Vishal Singh](www.github.com/vishalbhsc)
- * [Shivangi Gupta](www.github.com/shivangixgupta) 
- * [Aditya Bidwai](www.github.com/adbidwai)
+ * [Vishal Singh](https://www.github.com/vishalbhsc)
+ * [Shivangi Gupta](https//www.github.com/shivangixgupta) 
+ * [Aditya Bidwai](https://www.github.com/adbidwai)
